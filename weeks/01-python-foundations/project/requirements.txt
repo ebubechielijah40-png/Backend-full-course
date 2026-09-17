@@ -1,0 +1,8 @@
+# No external packages are required for this project.
+#
+# Everything used here (json, os) is part of Python's standard library.
+# This file exists so the project follows the same structure every later
+# project in this course will use, where real dependencies will be
+# listed here, one per line, e.g.:
+#
+#   requests==2.31.0
